@@ -17,7 +17,7 @@ var friends = [
   },
   {
     name: "Elon Musk",
-    photo: "https://en.wikipedia.org/wiki/Elon_Musk#/media/File:Elon_Musk_2015.jpg",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Elon_Musk_Royal_Society.jpg",
     scores: [
       "5",
       "1",
@@ -33,7 +33,7 @@ var friends = [
   },
   {
     name: "Butch Cassidy",
-    photo: "https://en.wikipedia.org/wiki/Butch_Cassidy#/media/File:Butch_Cassidy_with_bowler_hat.jpg",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/3/36/Butch_Cassidy_with_bowler_hat.jpg",
     scores: [
       "3",
       "2",
@@ -49,7 +49,7 @@ var friends = [
   },
   {
     name: "Sundance Kid",
-    photo: "https://en.wikipedia.org/wiki/Sundance_Kid#/media/File:Sundance_Kid_and_wife-clean.jpg",
+    photo: "https://upload.wikimedia.org/wikipedia/en/2/26/Sundance_Kid_and_wife-clean.jpg",
     scores: [
       "3",
       "2",
@@ -65,7 +65,7 @@ var friends = [
   },
   {
     name: "Frodo",
-    photo: "https://en.wikipedia.org/wiki/Frodo_Baggins#/media/File:Elijah_Wood_as_Frodo_Baggins.png",
+    photo: "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Elijah_Wood_as_Frodo_Baggins.png/220px-Elijah_Wood_as_Frodo_Baggins.png",
     scores: [
       "5",
       "4",
@@ -81,7 +81,7 @@ var friends = [
   },
   {
     name: "Sam",
-    photo: "https://en.wikipedia.org/wiki/Samwise_Gamgee#/media/File:Sean_Astin_as_Samwise_Gamgee.png",
+    photo: "https://vignette.wikia.nocookie.net/lotr/images/2/20/Sam.jpg/revision/latest?cb=20070623123241",
     scores: [
       "5",
       "4",
