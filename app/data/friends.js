@@ -1,7 +1,7 @@
 var friends = [
   {
     name:"Ahmed",
-    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    photo:"http://www.martinennalsaward.org/wp-content/uploads/2016/07/AHMED_MANSOOR_01-3.png",
     scores:[
       "5",
       "1",
